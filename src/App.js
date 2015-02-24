@@ -1,10 +1,19 @@
 import React from 'react';
-import CompLorem from './Lorem';
+import {RouteHandler} from 'react-router';
+import Menu from './Menu';
 
 module.exports = React.createClass({
   render: function () {
     return (
-      <CompLorem />
+      <div>
+        <header>
+          <Menu />
+        </header>
+
+        <h1>Application</h1>
+
+        <RouteHandler />
+      </div>
     );
   }
 });
