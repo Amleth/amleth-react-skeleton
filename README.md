@@ -34,7 +34,7 @@
 ### ES6 and after?
 
 - Flow
-  [[site](https://github.com/facebook/flow)}
+  [[site](https://github.com/facebook/flow)]
   [[builds windows](http://www.ocamlpro.com/pub/ocpwin/flow-builds/)]
   [[avec Gulp](https://www.npmjs.com/package/gulp-flowtype)]
 
@@ -44,7 +44,7 @@
 
 ### Flux
 
-- [Flux](http://facebook.github.io/flux/docs/overview.html), *framework* complémentaire à React pour l'architecture de l'application.
+- [Flux](http://facebook.github.io/flux/docs/overview.html)
 - [Flux For Stupid People](http://blog.andrewray.me/flux-for-stupid-people/)
 
 ### Flux through Bacon
